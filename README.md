@@ -13,7 +13,7 @@ The AI Learning Assistant is an application designed to help users study by allo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Kwabena-Kobiri/AI-Learning-Assistant.git
+   git clone https://github.com/Lexo7/AI-Learning-Assistant.git
    cd AI-Learning-Assistant
    cd backend
 
@@ -42,4 +42,4 @@ The AI Learning Assistant is an application designed to help users study by allo
    This project is licensed under the MIT License.
 
 ## Contact Information
-   For questions or support, please contact: `solokobiri@gmail.com`  
+   For questions or support, please contact: `lxquao@gmail.com`  
